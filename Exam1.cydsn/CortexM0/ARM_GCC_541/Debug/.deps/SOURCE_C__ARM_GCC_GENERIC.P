@@ -1,0 +1,92 @@
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyDMA.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1_2.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1_2_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2_2.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2_2_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_1.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_1_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_2.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_2_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_3.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_3_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_4.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_4_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_1.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_1_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_2.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_2_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_3.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_3_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_4.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_4_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Result.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Result_aliases.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/core_cm0.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/project.h C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/main.c 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1_2.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1_2_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In1_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2_2.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2_2_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/In2_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_1.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_1_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_2.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_2_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_3.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_3_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_4.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out1_4_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_1.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_1_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_2.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_2_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_3.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_3_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_4.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Out2_4_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Result.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/Result_aliases.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/1/Documents/PSoC\ Creator/Exam/Exam1.cydsn/main.c : 
+
